@@ -4,12 +4,6 @@ A **Full-stack Web Application** built using **React** and **Spring Boot** for m
 
 ---
 
-## 📸 Preview
-
-> _Add screenshots or a demo link here if available!_
-
----
-
 ## 🚀 Tech Stack
 
 **Frontend:**
