@@ -1,10 +1,10 @@
-# 📚 Student Management System
+#  Student Management System
 
 A **Full-stack Web Application** built using **React** and **Spring Boot** for managing student records efficiently. This system allows users to add, update, and delete student information along with their respective departments. Designed with a user-friendly interface, it ensures smooth and seamless interaction between the frontend and backend.
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 **Frontend:**
 - React
